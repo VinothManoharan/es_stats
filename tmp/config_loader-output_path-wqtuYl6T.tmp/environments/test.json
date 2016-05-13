@@ -1,0 +1,1 @@
+{"modulePrefix":"es-stats","environment":"test","baseURL":"/","locationType":"none","EmberENV":{"FEATURES":{}},"APP":{"LOG_ACTIVE_GENERATION":false,"LOG_VIEW_LOOKUPS":false,"rootElement":"#ember-testing","name":"es-stats","version":"0.0.0+7a8a9d78"},"exportApplicationGlobal":true}
